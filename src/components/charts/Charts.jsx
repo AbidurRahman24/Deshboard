@@ -120,7 +120,7 @@ const Charts = () => {
         height: 350,
         type: "line",
         zoom: {
-          enabled: false,
+          enabled: true,
         },
         //add
         foreColor: "grey",
